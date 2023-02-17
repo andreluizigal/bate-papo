@@ -1,4 +1,4 @@
-import socket, pickle, threading, time
+import socket, pickle, threading
 from mensagem import Mensagem
 
 entrada = " "
